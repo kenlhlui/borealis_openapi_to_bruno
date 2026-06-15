@@ -2,7 +2,7 @@ opencollection: 1.0.0
 info:
     name: Dataverse API
     summary: Open source research data repository software.
-    version: v6.8.1-SP
+    version: v6.8.2-SP
 request:
     auth:
         type: apikey
