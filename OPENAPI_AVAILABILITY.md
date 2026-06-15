@@ -1,7 +1,8 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-06-15 18:33:38 UTC_
-_Overall availability: 99/149 (66.44%)_
+_Last updated: 2026-06-15 18:39:01 UTC_
+
+_Overall availability: 97/149 (65.10%)_
 
 > [!WARNING]
 > Availability results are based on automated checks performed from GitHub Actions. Some installations may block automated traffic or be temporarily unavailable due to maintenance, resulting in false negatives. If you believe an availability result is incorrect, please verify it with the installation administrators.
@@ -42,10 +43,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.adp.fdv.uni-lj.si/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Arca Dados</td>
   <td><a href="https://dadosdepesquisa.fiocruz.br">dadosdepesquisa.fiocruz.br</a></td>
-  <td><a href="https://dadosdepesquisa.fiocruz.br/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -138,10 +139,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://data.cimmyt.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>CIRAD Dataverse</td>
   <td><a href="https://dataverse.cirad.fr">dataverse.cirad.fr</a></td>
-  <td><a href="https://dataverse.cirad.fr/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -318,16 +319,16 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.deic.dk/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Domus Dados</td>
   <td><a href="https://domusdados.unifesp.br">domusdados.unifesp.br</a></td>
-  <td><a href="https://domusdados.unifesp.br/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>DR-NTU (Data)</td>
   <td><a href="https://researchdata.ntu.edu.sg">researchdata.ntu.edu.sg</a></td>
-  <td>-</td>
+  <td><a href="https://researchdata.ntu.edu.sg/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -480,10 +481,10 @@ _Overall availability: 99/149 (66.44%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>JPL Open Repository</td>
   <td><a href="https://dataverse.jpl.nasa.gov">dataverse.jpl.nasa.gov</a></td>
-  <td><a href="https://dataverse.jpl.nasa.gov/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -570,10 +571,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://portal.odissei.nl/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Open Data @ UCLouvain</td>
   <td><a href="https://dataverse.uclouvain.be">dataverse.uclouvain.be</a></td>
-  <td><a href="https://dataverse.uclouvain.be/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -648,10 +649,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://redata.anii.org.uy/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Repositorio de Datos Académicos RDA-UNR</td>
   <td><a href="https://dataverse.unr.edu.ar">dataverse.unr.edu.ar</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.unr.edu.ar/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -690,10 +691,10 @@ _Overall availability: 99/149 (66.44%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Repositorio de Datos de la Universidad del Pacífico (DatasetsUP)</td>
   <td><a href="https://datasets.up.edu.pe">datasets.up.edu.pe</a></td>
-  <td>-</td>
+  <td><a href="https://datasets.up.edu.pe/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
