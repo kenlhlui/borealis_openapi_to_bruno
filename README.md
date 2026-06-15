@@ -35,7 +35,7 @@ A live [Swagger UI](https://kenlhlui.github.io/dataverse_opencollection) is avai
 testing all defined Dataverse API endpoints interactively — no local setup required.
 
 # ✅ Prerequisites
-Your Dataverse instance must have the OpenAPI specification enabled. You can check if it's enabled by navigating to `https://your-dataverse-instance/openapi`.
+Your Dataverse instance must have the OpenAPI specification enabled. You can check if it's enabled by navigating to `https://your-dataverse-instance/openapi`. You can also check the [OPENAPI_AVAILABILITY.md](OPENAPI_AVAILABILITY.md) for availability across different Dataverse instances.
 
 To use this repository with [Bruno](https://www.usebruno.com/downloads), you will also need to install [Git](https://git-scm.com/install/).
 
