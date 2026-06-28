@@ -1,8 +1,8 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-06-21 04:28:49 UTC_
+_Last updated: 2026-06-28 04:05:15 UTC_
 
-_Overall availability: 99/149 (66.44%)_
+_Overall availability: 102/150 (68.00%)_
 
 > [!WARNING]
 > Availability results are based on automated checks performed from GitHub Actions. Some installations may block automated traffic or be temporarily unavailable due to maintenance, resulting in false negatives. If you believe an availability result is incorrect, please verify it with the installation administrators.
@@ -43,10 +43,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.adp.fdv.uni-lj.si/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Arca Dados</td>
   <td><a href="https://dadosdepesquisa.fiocruz.br">dadosdepesquisa.fiocruz.br</a></td>
-  <td><a href="https://dadosdepesquisa.fiocruz.br/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -127,10 +127,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.cidacs.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>CIFOR</td>
   <td><a href="https://data.cifor.org">data.cifor.org</a></td>
-  <td>-</td>
+  <td><a href="https://data.cifor.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -139,10 +139,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://data.cimmyt.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>CIRAD Dataverse</td>
   <td><a href="https://dataverse.cirad.fr">dataverse.cirad.fr</a></td>
-  <td><a href="https://dataverse.cirad.fr/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -319,10 +319,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.deic.dk/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Domus Dados</td>
   <td><a href="https://domusdados.unifesp.br">domusdados.unifesp.br</a></td>
-  <td><a href="https://domusdados.unifesp.br/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -421,10 +421,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.iza.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>IFDC Dataverse</td>
   <td><a href="https://dataverse.ifdc.org">dataverse.ifdc.org</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.ifdc.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -469,10 +469,10 @@ _Overall availability: 99/149 (66.44%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Italian Institute of Technology (IIT)</td>
   <td><a href="https://dataverse.iit.it">dataverse.iit.it</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.iit.it/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -541,10 +541,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://data.mel.cgiar.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Ministerio de las Culturas, las Artes y los Saberes</td>
   <td><a href="https://investigacionartes.mincultura.gov.co">investigacionartes.mincultura.gov.co</a></td>
-  <td>-</td>
+  <td><a href="https://investigacionartes.mincultura.gov.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -703,10 +703,10 @@ _Overall availability: 99/149 (66.44%)_
   <td><a href="https://dataverse.javeriana.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Repositorio de Datos Universidad Distrital Francisco José de Caldas</td>
   <td><a href="https://datosinvestigacion.udistrital.edu.co">datosinvestigacion.udistrital.edu.co</a></td>
-  <td>-</td>
+  <td><a href="https://datosinvestigacion.udistrital.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -839,6 +839,12 @@ _Overall availability: 99/149 (66.44%)_
   <td>UCLA Dataverse</td>
   <td><a href="https://dataverse.ucla.edu">dataverse.ucla.edu</a></td>
   <td><a href="https://dataverse.ucla.edu/openapi">OpenAPI</a></td>
+</tr>
+<tr>
+  <td>✅</td>
+  <td>UD Dataverse</td>
+  <td><a href="https://dataverse.udel.edu">dataverse.udel.edu</a></td>
+  <td><a href="https://dataverse.udel.edu/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
