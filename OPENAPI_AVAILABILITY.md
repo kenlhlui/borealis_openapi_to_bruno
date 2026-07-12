@@ -1,8 +1,8 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-07-05 03:40:28 UTC_
+_Last updated: 2026-07-12 02:58:36 UTC_
 
-_Overall availability: 98/150 (65.33%)_
+_Overall availability: 103/150 (68.67%)_
 
 > [!WARNING]
 > Availability results are based on automated checks performed from GitHub Actions. Some installations may block automated traffic or be temporarily unavailable due to maintenance, resulting in false negatives. If you believe an availability result is incorrect, please verify it with the installation administrators.
@@ -127,10 +127,10 @@ _Overall availability: 98/150 (65.33%)_
   <td><a href="https://dataverse.cidacs.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>CIFOR</td>
   <td><a href="https://data.cifor.org">data.cifor.org</a></td>
-  <td>-</td>
+  <td><a href="https://data.cifor.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -139,10 +139,10 @@ _Overall availability: 98/150 (65.33%)_
   <td><a href="https://data.cimmyt.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>CIRAD Dataverse</td>
   <td><a href="https://dataverse.cirad.fr">dataverse.cirad.fr</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.cirad.fr/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -187,10 +187,10 @@ _Overall availability: 98/150 (65.33%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>DANS Data Station Archaeology</td>
   <td><a href="https://archaeology.datastations.nl">archaeology.datastations.nl</a></td>
-  <td><a href="https://archaeology.datastations.nl/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -313,16 +313,16 @@ _Overall availability: 98/150 (65.33%)_
   <td><a href="https://datospararesiliencia.cl/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>DeiC Dataverse</td>
   <td><a href="https://dataverse.deic.dk">dataverse.deic.dk</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.deic.dk/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Domus Dados</td>
   <td><a href="https://domusdados.unifesp.br">domusdados.unifesp.br</a></td>
-  <td>-</td>
+  <td><a href="https://domusdados.unifesp.br/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -421,10 +421,10 @@ _Overall availability: 98/150 (65.33%)_
   <td><a href="https://dataverse.iza.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>IFDC Dataverse</td>
   <td><a href="https://dataverse.ifdc.org">dataverse.ifdc.org</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.ifdc.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -835,10 +835,10 @@ _Overall availability: 98/150 (65.33%)_
   <td><a href="https://datasets.lib.berkeley.edu/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>UCLA Dataverse</td>
   <td><a href="https://dataverse.ucla.edu">dataverse.ucla.edu</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.ucla.edu/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
