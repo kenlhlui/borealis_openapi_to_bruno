@@ -1,6 +1,6 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-07-12 02:58:36 UTC_
+_Last updated: 2026-07-17 13:43:39 UTC_
 
 _Overall availability: 103/150 (68.67%)_
 
@@ -97,10 +97,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://data.brin.go.id/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>BSC Dataverse</td>
   <td><a href="https://dataverse.bsc.es">dataverse.bsc.es</a></td>
-  <td><a href="https://dataverse.bsc.es/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -175,10 +175,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://researchdata.cuhk.edu.hk/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>DADOS IPB</td>
   <td><a href="https://dados.ipb.pt">dados.ipb.pt</a></td>
-  <td><a href="https://dados.ipb.pt/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -187,10 +187,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>DANS Data Station Archaeology</td>
   <td><a href="https://archaeology.datastations.nl">archaeology.datastations.nl</a></td>
-  <td>-</td>
+  <td><a href="https://archaeology.datastations.nl/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -229,16 +229,16 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://darus.uni-stuttgart.de/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Data Suds</td>
   <td><a href="https://dataverse.ird.fr">dataverse.ird.fr</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.ird.fr/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>data.sciencespo</td>
   <td><a href="https://data.sciencespo.fr">data.sciencespo.fr</a></td>
-  <td><a href="https://data.sciencespo.fr/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -361,10 +361,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>George Mason University Dataverse</td>
   <td><a href="https://dataverse.orc.gmu.edu">dataverse.orc.gmu.edu</a></td>
-  <td><a href="https://dataverse.orc.gmu.edu/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -403,10 +403,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>ICRISAT</td>
   <td><a href="https://dataverse.icrisat.org">dataverse.icrisat.org</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.icrisat.org/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -493,10 +493,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>KEEN Data Management Platform</td>
   <td><a href="https://keen.zih.tu-dresden.de">keen.zih.tu-dresden.de</a></td>
-  <td><a href="https://keen.zih.tu-dresden.de/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -571,10 +571,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://portal.odissei.nl/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Open Data @ UCLouvain</td>
   <td><a href="https://dataverse.uclouvain.be">dataverse.uclouvain.be</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.uclouvain.be/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -673,10 +673,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://datosdeinvestigacion.udea.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Repositorio de Datos de Investigación Universidad del Rosario</td>
   <td><a href="https://research-data.urosario.edu.co">research-data.urosario.edu.co</a></td>
-  <td>-</td>
+  <td><a href="https://research-data.urosario.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
