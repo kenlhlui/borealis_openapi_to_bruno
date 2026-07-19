@@ -1,8 +1,8 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-07-17 13:43:39 UTC_
+_Last updated: 2026-07-19 02:55:56 UTC_
 
-_Overall availability: 103/150 (68.67%)_
+_Overall availability: 105/150 (70.00%)_
 
 > [!WARNING]
 > Availability results are based on automated checks performed from GitHub Actions. Some installations may block automated traffic or be temporarily unavailable due to maintenance, resulting in false negatives. If you believe an availability result is incorrect, please verify it with the installation administrators.
@@ -43,10 +43,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://dataverse.adp.fdv.uni-lj.si/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Arca Dados</td>
   <td><a href="https://dadosdepesquisa.fiocruz.br">dadosdepesquisa.fiocruz.br</a></td>
-  <td><a href="https://dadosdepesquisa.fiocruz.br/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -67,10 +67,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://data.aussda.at/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>BioData.pt Data Management Portal (DMPortal)</td>
   <td><a href="https://dmportal.biodata.pt">dmportal.biodata.pt</a></td>
-  <td>-</td>
+  <td><a href="https://dmportal.biodata.pt/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -235,10 +235,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://dataverse.ird.fr/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>data.sciencespo</td>
   <td><a href="https://data.sciencespo.fr">data.sciencespo.fr</a></td>
-  <td>-</td>
+  <td><a href="https://data.sciencespo.fr/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -325,10 +325,10 @@ _Overall availability: 103/150 (68.67%)_
   <td><a href="https://domusdados.unifesp.br/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>DR-NTU (Data)</td>
   <td><a href="https://researchdata.ntu.edu.sg">researchdata.ntu.edu.sg</a></td>
-  <td><a href="https://researchdata.ntu.edu.sg/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>❌</td>
@@ -361,10 +361,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>George Mason University Dataverse</td>
   <td><a href="https://dataverse.orc.gmu.edu">dataverse.orc.gmu.edu</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.orc.gmu.edu/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -583,10 +583,10 @@ _Overall availability: 103/150 (68.67%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>osnaData</td>
   <td><a href="https://osnadata.ub.uni-osnabrueck.de">osnadata.ub.uni-osnabrueck.de</a></td>
-  <td>-</td>
+  <td><a href="https://osnadata.ub.uni-osnabrueck.de/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
