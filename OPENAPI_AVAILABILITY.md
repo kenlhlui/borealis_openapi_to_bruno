@@ -1,8 +1,8 @@
 # Dataverse OpenAPI Availability
 
-_Last updated: 2026-08-09 01:54:14 UTC_
+_Last updated: 2026-08-16 01:25:58 UTC_
 
-_Overall availability: 108/150 (72.00%)_
+_Overall availability: 110/150 (73.33%)_
 
 > [!WARNING]
 > Availability results are based on automated checks performed from GitHub Actions. Some installations may block automated traffic or be temporarily unavailable due to maintenance, resulting in false negatives. If you believe an availability result is incorrect, please verify it with the installation administrators.
@@ -211,10 +211,10 @@ _Overall availability: 108/150 (72.00%)_
   <td><a href="https://ssh.datastations.nl/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>dare</td>
   <td><a href="https://dare.uol.de">dare.uol.de</a></td>
-  <td>-</td>
+  <td><a href="https://dare.uol.de/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -223,10 +223,10 @@ _Overall availability: 108/150 (72.00%)_
   <td><a href="https://dataverse.dartmouth.edu/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>DaRUS</td>
   <td><a href="https://darus.uni-stuttgart.de">darus.uni-stuttgart.de</a></td>
-  <td>-</td>
+  <td><a href="https://darus.uni-stuttgart.de/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
@@ -343,10 +343,10 @@ _Overall availability: 108/150 (72.00%)_
   <td><a href="https://edmond.mpdl.mpg.de/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>FGV Dataverse</td>
   <td><a href="https://dataverse.fgv.br">dataverse.fgv.br</a></td>
-  <td>-</td>
+  <td><a href="https://dataverse.fgv.br/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>❌</td>
@@ -373,10 +373,10 @@ _Overall availability: 108/150 (72.00%)_
   <td><a href="https://data.univ-gustave-eiffel.fr/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>Göttingen Research Online</td>
   <td><a href="https://data.goettingen-research-online.de">data.goettingen-research-online.de</a></td>
-  <td><a href="https://data.goettingen-research-online.de/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -583,10 +583,10 @@ _Overall availability: 108/150 (72.00%)_
   <td>-</td>
 </tr>
 <tr>
-  <td>✅</td>
+  <td>❌</td>
   <td>osnaData</td>
   <td><a href="https://osnadata.ub.uni-osnabrueck.de">osnadata.ub.uni-osnabrueck.de</a></td>
-  <td><a href="https://osnadata.ub.uni-osnabrueck.de/openapi">OpenAPI</a></td>
+  <td>-</td>
 </tr>
 <tr>
   <td>✅</td>
@@ -673,10 +673,10 @@ _Overall availability: 108/150 (72.00%)_
   <td><a href="https://datosdeinvestigacion.udea.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
-  <td>❌</td>
+  <td>✅</td>
   <td>Repositorio de Datos de Investigación Universidad del Rosario</td>
   <td><a href="https://research-data.urosario.edu.co">research-data.urosario.edu.co</a></td>
-  <td>-</td>
+  <td><a href="https://research-data.urosario.edu.co/openapi">OpenAPI</a></td>
 </tr>
 <tr>
   <td>✅</td>
